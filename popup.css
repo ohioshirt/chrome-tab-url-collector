@@ -1,0 +1,13 @@
+:root { font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif; }
+body { margin: 0; width: 460px; }
+header { display: flex; align-items: center; justify-content: space-between; padding: 10px 12px; border-bottom: 1px solid #ddd; }
+h1 { font-size: 16px; margin: 0; }
+button#copy { padding: 6px 10px; font-size: 12px; }
+section.filters { padding: 10px 12px 0; }
+.filters .row { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; }
+.filters label { width: 64px; color: #444; font-size: 12px; }
+.filters input { flex: 1; padding: 6px 8px; font-size: 12px; }
+.filters select { padding: 6px 8px; font-size: 12px; }
+.filters .actions { justify-content: flex-end; gap: 8px; }
+textarea#urls { width: calc(100% - 24px); height: 240px; margin: 12px; padding: 8px; resize: vertical; }
+footer { padding: 0 12px 12px; color: #666; }
