@@ -50,5 +50,4 @@ URL Collector is a minimal Chrome extension that collects URLs from all open tab
 - Export to file (txt/csv) and copy with titles.
 
 ## License
-This project is provided as-is without any specific license by default. Add a license file if you plan to distribute.
-
+MIT License. See `LICENSE` for details.
